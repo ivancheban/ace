@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/shortcodes/alerts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/getting-started/installation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/shortcodes/buttons/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/getting-started/usage/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/shortcodes/childpages/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/shortcodes/code/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/shortcodes/collapse/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/shortcodes/doublecode/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/shortcodes/lead/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/shortcodes/panel/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/shortcodes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+  </url>
+  
+</urlset>
