@@ -1,9 +1,11 @@
-baseURL = "https://example.com"
+baseURL = "/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Ace documentation"
 theme = "ace"
+themesDir = "themes"
+
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
 
