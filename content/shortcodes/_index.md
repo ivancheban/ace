@@ -12,7 +12,7 @@ Shortcodes are a great way to add some more advanced elements to your page. Code
 
 This is a test page.
 
-    {{< code lang="LANG" >}} table td:first-child > code{
+    {{< code lang="css" >}} table td:first-child > code{
     
     word-break: normal;
     
