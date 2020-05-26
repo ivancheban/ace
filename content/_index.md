@@ -1,5 +1,5 @@
 +++
-title = "Hugo for documentation"
+title = "Hugo for Documentation"
 description = "Sample documentation site for technical writers"
 +++
 
