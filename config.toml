@@ -14,7 +14,7 @@ defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
 
 # Enable Google Analytics by entering your tracking id
-googleAnalytics = "UA-162550995-18"
+googleAnalytics = "UA-162550995-19"
 
 [params]
 ordersectionsby = "weight" # ordersectionsby = "title"
