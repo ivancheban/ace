@@ -3,63 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/shortcodes/alerts/</loc>
+    <loc>/shortcodes/alerts/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/getting-started/</loc>
+    <loc>/getting-started/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/getting-started/installation/</loc>
+    <loc>/getting-started/installation/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/shortcodes/buttons/</loc>
+    <loc>/shortcodes/buttons/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/getting-started/usage/</loc>
+    <loc>/getting-started/usage/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/shortcodes/childpages/</loc>
+    <loc>/shortcodes/childpages/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/shortcodes/code/</loc>
+    <loc>/shortcodes/code/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/shortcodes/collapse/</loc>
+    <loc>/shortcodes/collapse/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/shortcodes/doublecode/</loc>
+    <loc>/shortcodes/doublecode/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/shortcodes/lead/</loc>
+    <loc>/shortcodes/lead/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/shortcodes/panel/</loc>
+    <loc>/shortcodes/panel/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/shortcodes/</loc>
+    <loc>/shortcodes/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
