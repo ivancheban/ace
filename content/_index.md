@@ -28,13 +28,36 @@ This is an example of code highlighting.
 ### Tables
 This is an example of a table.
 
-| Table Heading 1 | Table Heading 2 | Center align | Right align | Table Heading 5 |
-| :--- | :--- | :---: | ---: | :--- |
-| Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
-| Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">First</th>
+      <th scope="col">Last</th>
+      <th scope="col">Handle</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Jacob</td>
+      <td>Thornton</td>
+      <td>@fat</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Larry</td>
+      <td>the Bird</td>
+      <td>@twitter</td>
+    </tr>
+  </tbody>
+</table>
 
 ### YouTube
 This is an example of YouTube video.
