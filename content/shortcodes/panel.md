@@ -13,9 +13,7 @@ Be sure to read me, I might have important information for you.
 ## Usage
 
 Simply place the following shortcode on the page
-{{< code lang="html" >}}
-{{</* panel title="TITLE" style="STYLE" _/>}} \[content\] {{</_ /panel */>}}
-{{< /code >}}
+
 
 ### Parameters
 
